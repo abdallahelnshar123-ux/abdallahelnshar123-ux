@@ -1,41 +1,47 @@
-<h1 align="left">Hi , I'm Abdallah Elnshar</h1>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-###
+<p align="center">
+<a href="https://www.linkedin.com/in/abdallah-elnshar" target="blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</a>
+</p>
 
-<h2 align="left">Flutter Developer | Deep Learning Enthusiast</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Abdallah+Elnshar;Flutter+Developer;Welcome+to+my+GitHub+Profile" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-</div>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-###
+- 👨‍💻 **Flutter Developer**
+- 📱 Focused on crafting high-performance mobile applications
+- ⚡ Clean Code • Scalable Architecture • Problem Solving
+- 💡 Always pushing my limits and learning new technologies
+- 🚀 Driven to build products that make real impact
 
-<div align="left">
-  <a href="www.linkedin.com/in/abdallah-elnshar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+### 🧑‍💻 Tech I work on :
+
+<p align="center">
+      <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,postman" />
+      </a>
+</p>
+
+---
+
+### 📊 My Github Stats:
+
+![Abdallah's github streak](https://streak-stats.demolab.com?user=abdallahelnshar123-ux&theme=dark&mode=weekly)
+
+---
+
+### 🐍 Contribution Graph:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdallahelnshar123-ux/abdallahelnshar123-ux/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdallahelnshar123-ux/abdallahelnshar123-ux/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdallahelnshar123-ux/abdallahelnshar123-ux/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
