@@ -8,6 +8,10 @@
 <a href="https://abdallah-elnshar-123.getportify.com/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+
+<a href="mailto:abdallah.elnshar.123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
